@@ -1,0 +1,5 @@
+2024/07/09-08:59:14.963 1be8 Creating DB C:\Users\CWBTI\Documents\whaticket\backend\.wwebjs_auth\session-bd_2\Default\Local Storage\leveldb since it was missing.
+2024/07/09-08:59:15.052 1be8 Reusing MANIFEST C:\Users\CWBTI\Documents\whaticket\backend\.wwebjs_auth\session-bd_2\Default\Local Storage\leveldb/MANIFEST-000001
+2024/07/09-11:48:18.825 1be8 Level-0 table #5: started
+2024/07/09-11:48:18.860 1be8 Level-0 table #5: 21708 bytes OK
+2024/07/09-11:48:18.942 1be8 Delete type=0 #3
